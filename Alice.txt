@@ -2,3 +2,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Nice to meet you Bob.
 The weather is something eh?
 Why is it snowing in the middle of Summer?
+This is bizzare.
